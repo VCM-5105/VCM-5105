@@ -8,27 +8,22 @@ I enjoy working across the stack — from **database design and backend architec
 
 ---
 
-## 🚀 What I Work With
+## What I Work With
 
 **Languages**
-
-`C++` `JavaScript` `Python` `Java` `SQL`
+`C/C++` `JavaScript` `Python` `Java(Basics)` `SQL`
 
 **Frontend**
-
 `React` `HTML` `CSS` `Tailwind CSS` `Vite`
 
 **Backend**
-
 `Node.js` `Express.js` `REST APIs` `JWT` `Socket.IO` `WebRTC`
 
 **Databases**
-
 `MySQL` `MongoDB` `SQLite`
 
 **Tools & Debugging**
-
-`Git` `GitHub` `VS Code` `Postman` `Docker` `Chrome DevTools` `Wireshark` `Tcpdump`
+`Git` `GitHub` `VS Code` `Postman`  `Chrome DevTools` `Wireshark` `Tcpdump`
 
 ---
 
@@ -48,12 +43,10 @@ Currently exploring:
 - Building AI features into full-stack applications
 
 My goal isn't simply to "add AI" to projects.
-
 I want to understand **where AI actually solves a problem** and how to build the surrounding backend infrastructure properly.
-
 ---
 
-## 🔨 What I've Built
+##  What I've Built
 
 ### 🎬 Movie-Inventory
 Full-stack movie discovery platform with external API integration, authentication and database-backed features.
@@ -81,7 +74,6 @@ A full-stack development project focused on building and experimenting with mode
 ## 🎯 Current Focus
 
 **Backend Engineering · System Design · DSA · Databases · Generative AI**
-
 Building projects, solving problems, debugging systems, and continuously getting better at writing software.
 
 ---
